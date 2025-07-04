@@ -14,15 +14,18 @@ const Login = () => {
   //   router.push("/dashboard/login");
   // }
 
-  if (session.status === "loading") {
-    return <p className={styles.loading}>Loading....</p>;
-  }
-
+  
   useEffect(() => {
     if(session.status === "authenticated") {
       router?.push("/dashboard");
     }
   }, [session.status, router]);
+
+  if (session.status === "loading") {
+    return <p className={styles.loading}>Loading....</p>;
+  }
+
+
 
   const handleSubmit = async (e) => {
     e.preventDefault();
