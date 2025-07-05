@@ -21,7 +21,7 @@ const About = () => {
         />
 
         <div className={styles.imgText}>
-          <h1 className={styles.imgTitle}>Digital story Teller</h1>
+          <h1 className={styles.imgTitle}>Deux passions, une vision</h1>
           <h2 className={styles.imgDesc}>
             Handcrafting award winning digital experiences{" "}
           </h2>
@@ -30,44 +30,45 @@ const About = () => {
       <div className={styles.textContainer}>
         <div className={styles.item}>
           <h1 className={styles.title}>How Are We?</h1>
+          <h3 className={styles.title}>Mon parcours maritime</h3>
           <p className={styles.itemDesc}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-            recusandae fugiat necessitatibus minus saepe libero, maxime, sit,
-            tenetur accusantium architecto rerum odit voluptatibus! Voluptate
-            beatae aperiam a. Ad quia dolorum, sint labore impedit dolore
-            laboriosam neque, recusandae sequi, dolorem explicabo corporis
-            facere iusto laborum sed nesciunt.
+            J'ai commencé ma carrière comme inspecteur stagiaire  sur des navires
+            marchands avant de me spécialiser dans l'inspection maritime. Au fil
+            des années, j'ai certifié plus de 3 000 navires, supervisé des
+            dizaines de surveys complexes, et géré des situations critiques dans
+            les plus grands ports européens et asiatiques. Ma spécialité ? Les
+            inspections de conformité MARPOL, les bunker surveys, et les audits
+            de sécurité sur les navires de commerce international.
             <br />
+            <h3 className={styles.title}>La synergie parfaite</h3>
             <br />
-            Nesciunt omnis iusto ut officia explicabo enim labore cupiditate
-            quisquam, iste beatae ipsa quod laudantium esse doloribus eaque
-            laborum maiores saepe minus neque obcaecati. Doloribus numquam
-            pariatur, rem voluptatum debitis optio, at sapiente exercitationem
-            ratione ab, voluptas non ullam illo. Debitis, amet. Accusantium
-            tempora temporibus architecto! Cumque quod asperiores odit
-            voluptatem aspernatur necessitatibus eveniet, laborum nostrum
-            corporis aliquid veniam est pariatur. Corporis possimus et,
-            distinctio, commodi consequuntur sint, omnis tempora pariatur dolore
-            provident excepturi.
+            Cette double expertise me donne une perspective unique dans
+            l'industrie maritime. J'ai créé un logiciel de calcul automatique
+            pour les draft surveys qui est désormais utilisé par plusieurs
+            compagnies de survey. Mon système de traçabilité des carburants par
+            blockchain aide à lutter contre les fraudes. J'ai aussi développé
+            une IA qui détecte les anomalies dans les certificats de navires,
+            réduisant les erreurs de 80%.
           </p>
         </div>
         <div className={styles.item}>
-          <h1 className={styles.title}>What We Do?</h1>
+          <h1 className={styles.title}>Vision d'avenir</h1>
           <p className={styles.itemDesc}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-            recusandae fugiat necessitatibus minus saepe libero, maxime, sit,
-            tenetur accusantium architecto rerum odit voluptatibus! Voluptate
-            beatae aperiam a. Ad quia dolorum, sint labore impedit dolore
-            laboriosam neque, recusandae sequi, dolorem explicabo corporis
-            facere iusto laborum sed nesciunt.
+            L'industrie maritime vit une révolution numérique. Mon rôle est de
+            faire le pont entre la tradition maritime et l'innovation
+            technologique. Je consulte désormais pour des ports intelligents,
+            forme des équipes d'inspecteurs aux nouveaux outils digitaux, et
+            contribue à l'élaboration de standards internationaux pour la
+            digitalisation des surveys. Chaque ligne de code que j'écris
+            améliore la sécurité en mer. Chaque inspection que je réalise
+            nourrit mes algorithmes. C'est cette boucle vertueuse qui me
+            passionne depuis deux décennies.
             <br />
             <br />
-            -Creatives Illstrations
-            <br />
+            -Creatives Illustrations
             <br />
             <br />
             -Dynamic Websites
-            <br />
             <br />
             <br />
             -Mobile Apps

@@ -6,7 +6,10 @@ const nextConfig = {
             "images.pexels.com",
             "www.pexels.com",
         ]
-    }
+    },
+    env: {
+        NEXT_AUTH_URL: process.env.NEXT_AUTH_URL,
+    },
 };
 
 export default nextConfig;

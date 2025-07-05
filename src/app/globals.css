@@ -20,7 +20,7 @@ transition:1s all ease;
 }
 
 .dark{
-  background-color: #111;
+  background-color: #1f2937;
   color:#bbb;
 }
 
@@ -31,7 +31,7 @@ transition:1s all ease;
 
 
 .container{
-  max-width: 1024px;
+  max-width: 998px;
   min-height: 100vw;
   margin: 0 auto;
   padding: 0 60px;

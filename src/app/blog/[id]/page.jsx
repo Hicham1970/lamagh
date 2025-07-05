@@ -59,9 +59,6 @@ const BlogPost = async ({ params }) => {
         </div>
         <div className={styles.content}>
           <p className={styles.text}>{data.content}</p>
-          <br />
-          <br />
-          <p className={styles.text}>{data.content}</p>
         </div>
       </div>
     </>
