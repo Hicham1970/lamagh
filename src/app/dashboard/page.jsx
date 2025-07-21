@@ -100,7 +100,8 @@ const Dashboard = () => {
                     onClick={() => handleDelete(post._id)}
                   >
                     X
-                  </span>
+                </span>
+                
                 </div>
               ))}
         </div>

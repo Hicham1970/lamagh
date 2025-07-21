@@ -40,7 +40,7 @@ const About = () => {
             inspections de conformité MARPOL, les bunker surveys, et les audits
             de sécurité sur les navires de commerce international.
             <br />
-            <h3 className={styles.title}>La synergie parfaite</h3>
+            
             <br />
             Cette double expertise me donne une perspective unique dans
             l'industrie maritime. J'ai créé un logiciel de calcul automatique
